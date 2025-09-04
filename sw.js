@@ -1,5 +1,5 @@
 // public/sw.js
-const CACHE_VERSION = 'v6';                 // bump when you want to invalidate everything
+const CACHE_VERSION = 'v7';                 // bump when you want to invalidate everything
 const APP_CACHE    = `bms-app-${CACHE_VERSION}`;
 const ASSET_CACHE  = `bms-assets-${CACHE_VERSION}`;
 
