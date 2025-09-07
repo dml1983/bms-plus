@@ -1,5 +1,5 @@
 // Service worker with full pre-cache for offline use
-const CACHE_VERSION = 'v12';   // bump this each deploy
+const CACHE_VERSION = 'v13';   // bump this each deploy
 const CACHE_NAME = `bms-cache-${CACHE_VERSION}`;
 
 // ✅ List assets to pre-cache (adjust paths if needed)
